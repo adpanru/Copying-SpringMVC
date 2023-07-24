@@ -1,0 +1,7 @@
+根据查看SpringMVC的源码仿写的SpringMVC
+自定义了Controller 和 RequestMapping注解
+实现了扫描到项目文件中的这两个注解
+并且能够提取出注解和controller类方法之间的对应关系
+
+
+建议使用jdk 1.8
